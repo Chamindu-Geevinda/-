@@ -8,7 +8,7 @@
     height: 100vh;
     
     background-size: cover;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Bg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(splash.jpg);
     background-position: center;
     opacity: 0.75;
     
